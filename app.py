@@ -1,6 +1,3 @@
-# Week 5 - Interactive Generative Poster (Streamlit version)
-# Concepts: from Colab notebook to web app
-# Change from Colab: ipywidgets `interact` -> Streamlit sidebar widgets
 
 import random, math
 import numpy as np
